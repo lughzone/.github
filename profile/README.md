@@ -10,7 +10,7 @@
   <a href="https://www.tiktok.com/@lugh_community">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok badge link"/>
   </a>
-  <a href="">
+  <a href="https://www.youtube.com/@LughCommunity">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube badge link"/>
   </a>
   <!-- <br/> -->
