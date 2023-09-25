@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/logo-full.png" alt="logo-lugh-full"/>
+  <img src="./profile/assets/logo-full.png" alt="logo-lugh-full"/>
   <hr/>
   Explorando. Desenvolvendo. Avançando. Comunidade dedicada à tecnologia, ciência e cibersegurança.
   <br/>  
